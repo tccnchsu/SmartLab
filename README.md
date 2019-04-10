@@ -29,3 +29,10 @@ https://www.youtube.com/watch?v=xugjARegisk
 6.Machine Learning Fundamentals: Bias and Variance
 https://www.youtube.com/watch?v=EuBBz3bI-aA
 您學會了什麼?
+
+
+LC-RNN: A Deep Learning Model for Traffic Speed Prediction
+https://www.ijcai.org/proceedings/2018/0482.pdf
+
+Multitask Learning
+http://reports-archive.adm.cs.cmu.edu/anon/1997/CMU-CS-97-203.pdf
