@@ -21,4 +21,4 @@ https://www.youtube.com/watch?v=xugjARegisk
 您學會了畫ROC曲線嗎?
 6.Machine Learning Fundamentals: Bias and Variance
 https://www.youtube.com/watch?v=EuBBz3bI-aA
-
+7.
